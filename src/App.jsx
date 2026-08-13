@@ -19,7 +19,7 @@ function App() {
       <section className="hero">
         <div className="hero-content">
           <span className="eyebrow">ProgramGuru AWS</span>
-          <h1>Learn AWS with simple, practical tutorials.</h1>
+          <h1>React deployment updated successfully</h1>
           <p>
             This React application is deployed to production using AWS Amplify,
             GitHub continuous deployment, a custom domain, and HTTPS.
